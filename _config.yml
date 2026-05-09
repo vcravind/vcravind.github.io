@@ -12,7 +12,7 @@ description: >-
 # The base hostname & protocol — set this once you know your final URL.
 # For a project page (username.github.io/repo-name), set baseurl: "/repo-name"
 # For a user page (username.github.io), leave baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://vcravind.github.io"
 baseurl: ""
 
 # Author info — appears in page headers and metadata
