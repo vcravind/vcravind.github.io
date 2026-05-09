@@ -17,4 +17,4 @@ The best way to reach me is by **email**:
 
 ### Online
 
-{% if site.links.scholar %}<a href="{{ site.links.scholar }}">Google Scholar</a>{% endif %}{% if site.links.github %} · <a href="https://github.com/{{ site.links.github }}">GitHub</a>{% endif %}{% if site.links.orcid %} · <a href="https://orcid.org/{{ site.links.orcid }}">ORCID</a>{% endif %}{% if site.links.linkedin %} · <a href="https://linkedin.com/in/{{ site.links.linkedin }}">LinkedIn</a>{% endif %}{% if site.links.twitter %} · <a href="https://twitter.com/{{ site.links.twitter }}">Twitter</a>{% endif %}
+{% if site.links.scholar %}<a href="{{ site.links.scholar }}">Google Scholar</a>{% endif %}{% if site.links.github %} · <a href="https://github.com/{{ site.links.github }}">GitHub</a>{% endif %}{% if site.links.orcid %} · <a href="https://orcid.org/{{ site.links.orcid }}">ORCID</a>{% endif %}{% if site.links.linkedin %} · <a href="https://linkedin.com/in/{{ site.links.linkedin }}">LinkedIn</a>{% endif %}
