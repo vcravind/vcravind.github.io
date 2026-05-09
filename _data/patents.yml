@@ -1,0 +1,16 @@
+# Granted patents. Listed reverse-chronologically.
+# Each entry: year, title, inventors, venue (granted date + assignee), links.
+
+- year: 2020
+  title: "System and Method for Optimal Operation of Wind Farms"
+  authors: "Akshay Krishnamurty Ambekar, Vishal Cholapadi Ravindra, Benoit Philippe Petitjean, Kalpit Vikrambhai Desai"
+  venue: "Granted Jul. 2020 · Assignee: GE."
+  links:
+    pdf: "https://patents.justia.com/patent/10711766"
+
+- year: 2018
+  title: "System and Method for Optimizing Operation of a Wind Farm"
+  authors: "Vishal Cholapadi Ravindra, Akshay Krishnamurty Ambekar, Siddhanth Chandrashekar"
+  venue: "Granted Oct. 2018 · Assignee: GE."
+  links:
+    pdf: "https://patents.justia.com/patent/10100813"

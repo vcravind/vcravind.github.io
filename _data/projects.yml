@@ -1,0 +1,19 @@
+# Projects — featured work, code, demos.
+
+- title: "Shapley Observability — sensor importance code"
+  description: >-
+    Source code accompanying my 2025 ICC paper, "Sensor Importance towards
+    Observability Degree via Shapley Values."
+  meta: "Python"
+  links:
+    code: "https://github.com/vcravind/shapley-observability"
+    paper: "https://arxiv.org/abs/2511.06409"
+
+- title: "Impact Point Prediction — original MATLAB source"
+  description: >-
+    Original MATLAB implementation accompanying our 2010 IEEE TAES paper on
+    projectile identification and impact point prediction.
+  meta: "MATLAB · with Y. Bar-Shalom and P. Willett"
+  links:
+    code: "https://github.com/vcravind/impact_point_prediction"
+    paper: "https://docs.google.com/open?id=0B3po0crSQfq7YjlkMzAzNmEtNTc5Ny00MDcyLTgwMGQtYTNhYzU0MmQxOGRi"

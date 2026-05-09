@@ -1,0 +1,13 @@
+_site/
+_preview/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/

@@ -1,0 +1,44 @@
+# Peer-reviewed articles. Listed reverse-chronologically.
+# Each entry: year, title, authors, venue, links (pdf optional).
+
+- year: 2025
+  title: "Sensor Importance towards Observability Degree via Shapley Values"
+  authors: "V.C. Ravindra"
+  venue: "11th Indian Control Conference (ICC), IISc, Bengaluru, Dec. 2025."
+  links:
+    pdf: "https://arxiv.org/abs/2511.06409"
+
+- year: 2012
+  title: "A Cardinality Preserving Multitarget Multi-Bernoulli Tracker"
+  authors: "V.C. Ravindra, L. Svensson, L. Hammarstrand and M. Morelande"
+  venue: "15th International Conference on Information Fusion, Singapore, Jul. 2012."
+  links:
+    pdf: "https://docs.google.com/open?id=0B3po0crSQfq7WWRmR0NMZjRNZTA"
+
+- year: 2012
+  title: "A Novel INS/GPS Fusion Architecture for Aircraft Navigation"
+  authors: "V.K. Madyastha, V.C. Ravindra, S.M. Vaitheeswaran and S. Mallikarjunan"
+  venue: "15th International Conference on Information Fusion, Singapore, Jul. 2012."
+  links:
+    pdf: "https://docs.google.com/open?id=0B3po0crSQfq7d0M1M3k4cXUyUTQ"
+
+- year: 2010
+  title: "Feature-Aided Tracking of Ground Vehicles Using Passive Acoustic Sensor Arrays"
+  authors: "V.C. Ravindra, Y. Bar-Shalom and T. Damarla"
+  venue: "Journal of Advances in Information Fusion, Vol. 5, No. 2, pp. 88–107, Dec. 2010."
+  links:
+    pdf: "https://docs.google.com/open?id=0B3po0crSQfq7YjRjZDcxNTUtZGM5Zi00MGE2LWE5Y2UtYjUwNmEwN2MyMTY2"
+
+- year: 2010
+  title: "Projectile Identification and Impact Point Prediction"
+  authors: "V.C. Ravindra, Y. Bar-Shalom and P. Willett"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems, Vol. 46, No. 4, pp. 2004–2021, Oct. 2010."
+  links:
+    pdf: "https://docs.google.com/open?id=0B3po0crSQfq7YjlkMzAzNmEtNTc5Ny00MDcyLTgwMGQtYTNhYzU0MmQxOGRi"
+
+- year: 2009
+  title: "Aim Identification of Missiles Using a Minimal Parameter Set"
+  authors: "V.C. Ravindra, Y. Bar-Shalom and S. Gottesman"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems, Vol. 45, No. 1, pp. 405–414, Jan. 2009."
+  links:
+    pdf: "https://docs.google.com/open?id=0B3po0crSQfq7OWMwNmVhNjctNjU1Yi00MjhmLTg5MTYtMTkwMTA3YTA4ODll"

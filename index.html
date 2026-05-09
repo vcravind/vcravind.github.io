@@ -1,0 +1,73 @@
+---
+layout: default
+title: About
+---
+<div class="wrap">
+  <section class="intro">
+    <div class="photo">
+      <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="{{ site.author.name }}">
+    </div>
+    <div>
+      <h1>{{ site.author.name }}</h1>
+      <p class="role">Intuit Credit Karma · Data &amp; AI Science</p>
+      <p class="role">Independent researcher · Sensor fusion &amp; tracking</p>
+      <p class="role"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>
+      I'm an independent contributor to the Data &amp; AI Science team at
+      <strong>Intuit Credit Karma</strong>, where I focus on improving financial product
+      and action recommendation systems. Outside of my work there, I'm an independent
+      researcher in <strong>sensor fusion and tracking</strong>.
+    </p>
+
+    <p>
+      My research sits at the cross section between machine learning and estimation
+      theory, with a focus on making estimation and tracking algorithms more
+      <em>explainable</em>. I'm also interested in leveraging reinforcement learning
+      for autonomous mobile agents in hazardous and unknown environments.
+    </p>
+
+    <p>
+      I received my PhD in 2009 from the University of Connecticut under
+      <a href="https://www.ee.uconn.edu/yaakov-bar-shalom/">Yaakov Bar-Shalom</a>,
+      specializing in multi-sensor data fusion and target tracking. I joined Intuit
+      through its
+      <a href="https://investors.intuit.com/news-events/press-releases/detail/1196/intuit-to-acquire-technology-from-zendrive">acquisition of Zendrive's technology</a>,
+      where I had been a Principal Data Scientist.
+    </p>
+
+    <p>
+      See my <a href="{{ '/publications/' | relative_url }}">publications</a>,
+      browse selected <a href="{{ '/projects/' | relative_url }}">projects</a>,
+      or read my <a href="{{ '/blog/' | relative_url }}">technical writing</a>.
+      For collaboration or questions, please <a href="{{ '/contact/' | relative_url }}">get in touch</a>.
+    </p>
+  </div>
+
+  <section class="section">
+    <h2>News</h2>
+    <ul style="list-style:none; padding:0; margin:0;">
+      <li style="padding:0.4rem 0; border-bottom:1px solid var(--line); display:grid; grid-template-columns:90px 1fr; gap:1rem;">
+        <span style="font-family:var(--sans); font-size:0.85rem; color:var(--muted);">May 2026</span>
+        <span>Launched my new academic site. Welcome!</span>
+      </li>
+      <li style="padding:0.4rem 0; display:grid; grid-template-columns:90px 1fr; gap:1rem;">
+        <span style="font-family:var(--sans); font-size:0.85rem; color:var(--muted);">Dec 2025</span>
+        <span>Presented <a href="https://arxiv.org/abs/2511.06409">"Sensor Importance towards Observability Degree via Shapley Values"</a> [<a href="{{ '/assets/slides/icc-2025-shapley.pdf' | relative_url }}">slides</a>] at the 11th Indian Control Conference (ICC), IISc Bengaluru.</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Recent writing</h2>
+    <p>
+      For now, I publish in two places: notes and longer-form technical writing on
+      <a href="https://substack.com/@vishalcholapadiravindra">Substack</a>,
+      and pure math derivation posts on
+      <a href="https://functor.network/user/3019/entries">functor.network</a>.
+    </p>
+  </section>
+</div>

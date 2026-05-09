@@ -1,0 +1,77 @@
+# =============================================================================
+# Site settings — edit these to customize your site
+# =============================================================================
+
+title: "Vishal Cholapadi Ravindra"
+tagline: "Intuit Credit Karma · Independent researcher in sensor fusion & tracking"
+description: >-
+  Personal website of Vishal Cholapadi Ravindra — independent contributor to the
+  Data & AI Science team at Intuit Credit Karma, and independent researcher in
+  sensor fusion and tracking. Research notes, writing, and publications.
+
+# The base hostname & protocol — set this once you know your final URL.
+# For a project page (username.github.io/repo-name), set baseurl: "/repo-name"
+# For a user page (username.github.io), leave baseurl: ""
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Author info — appears in page headers and metadata
+author:
+  name: "Vishal Cholapadi Ravindra"
+  affiliation: "Intuit Credit Karma"
+  position: ""
+  email: "vishalcr@gmail.com"
+
+# Profile / academic links — leave blank to hide an entry.
+# Fill these in with your real URLs / handles when you have them.
+links:
+  email: "vishalcr@gmail.com"
+  github: "vcravind"
+  scholar: "https://scholar.google.com/citations?user=wMiB5egAAAAJ&hl=en"
+  orcid: ""
+  linkedin: "vishal-ravindra-22940b4"
+  twitter: ""
+  cv_pdf: ""         # path to a PDF in /assets, e.g. /assets/cv.pdf
+
+# =============================================================================
+# Build settings — usually no need to touch
+# =============================================================================
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+timezone: America/New_York
+
+kramdown:
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Plugins enabled on GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Files to exclude from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - CLAUDE.md
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache
